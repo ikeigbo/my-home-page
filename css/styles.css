@@ -9,8 +9,12 @@ header {
     padding: 10px 0;
     text-align: center;
 }
+
 main {
     padding: 20px;
+}
+p {
+    font-size: 20px;
 }
 footer {
     background: #333;
